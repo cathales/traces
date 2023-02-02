@@ -1,0 +1,990 @@
+- cycle:          1
+  decode:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - fetch
+    - issue
+  issue:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - decode
+    - commit
+  commit:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - issue
+  flu:
+    instr: 0x00000000
+    stalling:  true
+    causes: []
+- cycle:          2
+  decode:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - fetch
+    - issue
+  issue:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - decode
+    - commit
+  commit:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - issue
+  flu:
+    instr: 0x00000000
+    stalling:  true
+    causes: []
+- cycle:          3
+  decode:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - fetch
+    - issue
+  issue:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - decode
+    - commit
+  commit:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - issue
+  flu:
+    instr: 0x00000000
+    stalling:  true
+    causes: []
+- cycle:          4
+  decode:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - fetch
+    - issue
+  issue:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - decode
+    - commit
+  commit:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - issue
+  flu:
+    instr: 0x00000000
+    stalling:  true
+    causes: []
+- cycle:          5
+  decode:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - fetch
+    - issue
+  issue:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - decode
+    - commit
+  commit:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - issue
+  flu:
+    instr: 0x00000000
+    stalling:  true
+    causes: []
+- cycle:          6
+  decode:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - fetch
+    - issue
+  issue:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - decode
+    - commit
+  commit:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - issue
+  flu:
+    instr: 0x00000000
+    stalling:  true
+    causes: []
+- cycle:          7
+  decode:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - fetch
+    - issue
+  issue:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - decode
+    - commit
+  commit:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - issue
+  flu:
+    instr: 0x00000000
+    stalling:  true
+    causes: []
+- cycle:          8
+  decode:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - fetch
+    - issue
+  issue:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - decode
+    - commit
+  commit:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - issue
+  flu:
+    instr: 0x00000000
+    stalling:  true
+    causes: []
+- cycle:          9
+  decode:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - fetch
+    - issue
+  issue:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - decode
+    - commit
+  commit:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - issue
+  flu:
+    instr: 0x00000000
+    stalling:  true
+    causes: []
+- cycle:         10
+  decode:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - fetch
+    - issue
+  issue:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - decode
+    - commit
+  commit:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - issue
+  flu:
+    instr: 0x00000000
+    stalling:  true
+    causes: []
+- cycle:         11
+  decode:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - fetch
+    - issue
+  issue:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - decode
+    - commit
+  commit:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - issue
+  flu:
+    instr: 0x00000000
+    stalling:  true
+    causes: []
+- cycle:         12
+  decode:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - fetch
+    - issue
+  issue:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - decode
+    - commit
+  commit:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - issue
+  flu:
+    instr: 0x00000000
+    stalling:  true
+    causes: []
+- cycle:         13
+  decode:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - fetch
+    - issue
+  issue:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - decode
+    - commit
+  commit:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - issue
+  flu:
+    instr: 0x00000000
+    stalling:  true
+    causes: []
+- cycle:         14
+  decode:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - fetch
+    - issue
+  issue:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - decode
+    - commit
+  commit:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - issue
+  flu:
+    instr: 0x00000000
+    stalling:  true
+    causes: []
+- cycle:         15
+  decode:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - fetch
+    - issue
+  issue:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - decode
+    - commit
+  commit:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - issue
+  flu:
+    instr: 0x00000000
+    stalling:  true
+    causes: []
+- cycle:         16
+  decode:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - fetch
+    - issue
+  issue:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - decode
+    - commit
+  commit:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - issue
+  flu:
+    instr: 0x00000000
+    stalling:  true
+    causes: []
+- cycle:         17
+  decode:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - fetch
+    - issue
+  issue:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - decode
+    - commit
+  commit:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - issue
+  flu:
+    instr: 0x00000000
+    stalling:  true
+    causes: []
+- cycle:         18
+  decode:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - fetch
+    - issue
+  issue:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - decode
+    - commit
+  commit:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - issue
+  flu:
+    instr: 0x00000000
+    stalling:  true
+    causes: []
+- cycle:         19
+  decode:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - fetch
+    - issue
+  issue:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - decode
+    - commit
+  commit:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - issue
+  flu:
+    instr: 0x00000000
+    stalling:  true
+    causes: []
+- cycle:         20
+  decode:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - fetch
+    - issue
+  issue:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - decode
+    - commit
+  commit:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - issue
+  flu:
+    instr: 0x00000000
+    stalling:  true
+    causes: []
+- cycle:         21
+  decode:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - fetch
+    - issue
+  issue:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - decode
+    - commit
+  commit:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - issue
+  flu:
+    instr: 0x00000000
+    stalling:  true
+    causes: []
+- cycle:         22
+  decode:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - fetch
+    - issue
+  issue:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - decode
+    - commit
+  commit:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - issue
+  flu:
+    instr: 0x00000000
+    stalling:  true
+    causes: []
+- cycle:         23
+  decode:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - fetch
+    - issue
+  issue:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - decode
+    - commit
+  commit:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - issue
+  flu:
+    instr: 0x00000000
+    stalling:  true
+    causes: []
+- cycle:         24
+  decode:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - fetch
+    - issue
+  issue:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - decode
+    - commit
+  commit:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - issue
+  flu:
+    instr: 0x00000000
+    stalling:  true
+    causes: []
+- cycle:         25
+  decode:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - fetch
+    - issue
+  issue:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - decode
+    - commit
+  commit:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - issue
+  flu:
+    instr: 0x00000000
+    stalling:  true
+    causes: []
+- cycle:         26
+  decode:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - fetch
+    - issue
+  issue:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - decode
+    - commit
+  commit:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - issue
+  flu:
+    instr: 0x00000000
+    stalling:  true
+    causes: []
+- cycle:         27
+  decode:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - fetch
+    - issue
+  issue:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - decode
+    - commit
+  commit:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - issue
+  flu:
+    instr: 0x00000000
+    stalling:  true
+    causes: []
+- cycle:         28
+  decode:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - fetch
+    - issue
+  issue:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - decode
+    - commit
+  commit:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - issue
+  flu:
+    instr: 0x00000000
+    stalling:  true
+    causes: []
+- cycle:         29
+  decode:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - fetch
+    - issue
+  issue:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - decode
+    - commit
+  commit:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - issue
+  flu:
+    instr: 0x00000000
+    stalling:  true
+    causes: []
+- cycle:         30
+  decode:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - fetch
+    - issue
+  issue:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - decode
+    - commit
+  commit:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - issue
+  flu:
+    instr: 0x00000000
+    stalling:  true
+    causes: []
+- cycle:         31
+  decode:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - fetch
+    - issue
+  issue:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - decode
+    - commit
+  commit:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - issue
+  flu:
+    instr: 0x00000000
+    stalling:  true
+    causes: []
+- cycle:         32
+  decode:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - fetch
+    - issue
+  issue:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - decode
+    - commit
+  commit:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - issue
+  flu:
+    instr: 0x00000000
+    stalling:  true
+    causes: []
+- cycle:         33
+  decode:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - fetch
+    - issue
+  issue:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - decode
+    - commit
+  commit:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - issue
+  flu:
+    instr: 0x00000000
+    stalling:  true
+    causes: []
+- cycle:         34
+  decode:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - fetch
+    - issue
+  issue:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - decode
+    - commit
+  commit:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - issue
+  flu:
+    instr: 0x00000000
+    stalling:  true
+    causes: []
+- cycle:         35
+  decode:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - fetch
+    - issue
+  issue:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - decode
+    - commit
+  commit:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - issue
+  flu:
+    instr: 0x00000000
+    stalling:  true
+    causes: []
+- cycle:         36
+  decode:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - fetch
+    - issue
+  issue:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - decode
+    - commit
+  commit:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - issue
+  flu:
+    instr: 0x00000000
+    stalling:  true
+    causes: []
+- cycle:         37
+  decode:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - fetch
+    - issue
+  issue:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - decode
+    - commit
+  commit:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - issue
+  flu:
+    instr: 0x00000000
+    stalling:  true
+    causes: []
+- cycle:         38
+  decode:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - fetch
+    - issue
+  issue:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - decode
+    - commit
+  commit:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - issue
+  flu:
+    instr: 0x00000000
+    stalling:  true
+    causes: []
+- cycle:         39
+  decode:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - fetch
+    - issue
+  issue:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - decode
+    - commit
+  commit:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - issue
+  flu:
+    instr: 0x00000000
+    stalling:  true
+    causes: []
+- cycle:         40
+  decode:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - fetch
+    - issue
+  issue:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - decode
+    - commit
+  commit:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - issue
+  flu:
+    instr: 0x00000000
+    stalling:  true
+    causes: []
+- cycle:         41
+  decode:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - fetch
+    - issue
+  issue:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - decode
+    - commit
+  commit:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - issue
+  flu:
+    instr: 0x00000000
+    stalling:  true
+    causes: []
+- cycle:         42
+  decode:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - fetch
+    - issue
+  issue:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - decode
+    - commit
+  commit:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - issue
+  flu:
+    instr: 0x00000000
+    stalling:  true
+    causes: []
+- cycle:         43
+  decode:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - fetch
+    - issue
+  issue:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - decode
+    - commit
+  commit:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - issue
+  flu:
+    instr: 0x00000000
+    stalling:  true
+    causes: []
+- cycle:         44
+  decode:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - fetch
+    - issue
+  issue:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - decode
+    - commit
+  commit:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - issue
+  flu:
+    instr: 0x00000000
+    stalling:  true
+    causes: []
+- cycle:         45
+  decode:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - fetch
+    - issue
+  issue:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - decode
+    - commit
+  commit:
+    instr: 0x00000000
+    stalling:  true
+    causes:
+    - issue
+  flu:
+    instr: 0x00000000
+    stalling:  true
+    causes: []
